@@ -1,4 +1,4 @@
-![1000022711](https://github.com/user-attachments/assets/b401258f-4997-41e9-a8ab-6ecd39ad8c5d)# Weather Forecast App
+# Weather Forecast App
 
 A simple and intuitive mobile application that provides real-time weather conditions and a short-term forecast for any specified city. This app allows users to quickly check the current temperature, weather description, and an hourly outlook.
 
@@ -14,10 +14,10 @@ A simple and intuitive mobile application that provides real-time weather condit
 Below are screenshots showcasing the app's interface for different cities:
 
 ### London Weather day time
-![1000022711](https://github.com/user-attachments/assets/d665409b-3b38-461a-90b1-a365b5399010)
+<img src="https://github.com/user-attachments/assets/d665409b-3b38-461a-90b1-a365b5399010" width=50% height=50%>
 
 ### Bangkok Weather night time
-![1000022712](https://github.com/user-attachments/assets/1759cbd6-dffb-44ce-8128-b097eb93dd5d)
+<img src="https://github.com/user-attachments/assets/1759cbd6-dffb-44ce-8128-b097eb93dd5d" width=50% height=50%>
 
 
 
