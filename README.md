@@ -25,7 +25,7 @@ Below are screenshots showcasing the app's interface for different cities:
 
 This application is built for Android and likely utilizes technologies such as:
 
-* **Kotlin/Java:** For Android app development.
+* **Kotlin:** For Android app development.
 * **Jetpack compose:** For UI layout design.
 * **Weather API:** (open weather) to fetch weather data.
 * **Retrofit:** For network requests to the weather API.
